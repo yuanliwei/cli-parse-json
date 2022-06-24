@@ -1,0 +1,27 @@
+{
+  "name": "cli-parse-json",
+  "version": "1.0.0",
+  "description": "parse json in cli",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "parse-json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yuanliwei/cli-parse-json.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yuanliwei/cli-parse-json/issues"
+  },
+  "homepage": "https://github.com/yuanliwei/cli-parse-json#readme",
+  "author": "yuanliwei",
+  "license": "ISC",
+  "bin": {
+    "cli-parse-json": "./index.js"
+  }
+}
